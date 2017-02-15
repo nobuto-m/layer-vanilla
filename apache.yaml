@@ -1,6 +1,6 @@
 packages:
-  - 'php5-mysql'
-  - 'php5-gd'
+  - 'php-mysql'
+  - 'php-gd'
 sites:
   vanilla:
     options: 'Indexes FollowSymLinks MultiViews'
